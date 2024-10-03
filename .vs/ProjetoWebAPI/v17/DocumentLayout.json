@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\ProjetoWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB5B69D-D1F1-40B4-A600-E02E180870CB}|ProjetoWebAPI.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\projetowebapi\\orm\\bdempresacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB5B69D-D1F1-40B4-A600-E02E180870CB}|ProjetoWebAPI.csproj|solutionrelative:orm\\bdempresacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno Noite\\Downloads\\response_1727784034656.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB5B69D-D1F1-40B4-A600-E02E180870CB}|ProjetoWebAPI.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\projetowebapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB5B69D-D1F1-40B4-A600-E02E180870CB}|ProjetoWebAPI.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB5B69D-D1F1-40B4-A600-E02E180870CB}|ProjetoWebAPI.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\projetowebapi\\projetowebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9AB5B69D-D1F1-40B4-A600-E02E180870CB}|ProjetoWebAPI.csproj|solutionrelative:projetowebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB5B69D-D1F1-40B4-A600-E02E180870CB}|ProjetoWebAPI.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\projetowebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB5B69D-D1F1-40B4-A600-E02E180870CB}|ProjetoWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB5B69D-D1F1-40B4-A600-E02E180870CB}|ProjetoWebAPI.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\projetowebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9AB5B69D-D1F1-40B4-A600-E02E180870CB}|ProjetoWebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB5B69D-D1F1-40B4-A600-E02E180870CB}|ProjetoWebAPI.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\projetowebapi\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB5B69D-D1F1-40B4-A600-E02E180870CB}|ProjetoWebAPI.csproj|solutionrelative:repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB5B69D-D1F1-40B4-A600-E02E180870CB}|ProjetoWebAPI.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\projetowebapi\\repositorio\\ifuncionariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB5B69D-D1F1-40B4-A600-E02E180870CB}|ProjetoWebAPI.csproj|solutionrelative:repositorio\\ifuncionariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB5B69D-D1F1-40B4-A600-E02E180870CB}|ProjetoWebAPI.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\projetowebapi\\repositorio\\funcionariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB5B69D-D1F1-40B4-A600-E02E180870CB}|ProjetoWebAPI.csproj|solutionrelative:repositorio\\funcionariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB5B69D-D1F1-40B4-A600-E02E180870CB}|ProjetoWebAPI.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\projetowebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9AB5B69D-D1F1-40B4-A600-E02E180870CB}|ProjetoWebAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB5B69D-D1F1-40B4-A600-E02E180870CB}|ProjetoWebAPI.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\projetowebapi\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB5B69D-D1F1-40B4-A600-E02E180870CB}|ProjetoWebAPI.csproj|solutionrelative:controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB5B69D-D1F1-40B4-A600-E02E180870CB}|ProjetoWebAPI.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\projetowebapi\\model\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB5B69D-D1F1-40B4-A600-E02E180870CB}|ProjetoWebAPI.csproj|solutionrelative:model\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB5B69D-D1F1-40B4-A600-E02E180870CB}|ProjetoWebAPI.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\projetowebapi\\model\\funcionariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB5B69D-D1F1-40B4-A600-E02E180870CB}|ProjetoWebAPI.csproj|solutionrelative:model\\funcionariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB5B69D-D1F1-40B4-A600-E02E180870CB}|ProjetoWebAPI.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\projetowebapi\\model\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB5B69D-D1F1-40B4-A600-E02E180870CB}|ProjetoWebAPI.csproj|solutionrelative:model\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB5B69D-D1F1-40B4-A600-E02E180870CB}|ProjetoWebAPI.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\projetowebapi\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB5B69D-D1F1-40B4-A600-E02E180870CB}|ProjetoWebAPI.csproj|solutionrelative:model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB5B69D-D1F1-40B4-A600-E02E180870CB}|ProjetoWebAPI.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\projetowebapi\\orm\\tbfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB5B69D-D1F1-40B4-A600-E02E180870CB}|ProjetoWebAPI.csproj|solutionrelative:orm\\tbfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB5B69D-D1F1-40B4-A600-E02E180870CB}|ProjetoWebAPI.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\projetowebapi\\orm\\tbusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB5B69D-D1F1-40B4-A600-E02E180870CB}|ProjetoWebAPI.csproj|solutionrelative:orm\\tbusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\ProjetoWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\ProjetoWebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:06:45.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\ProjetoWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\ProjetoWebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T12:06:40.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IFuncionarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\ProjetoWebAPI\\Repositorio\\IFuncionarioRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorio\\IFuncionarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\ProjetoWebAPI\\Repositorio\\IFuncionarioRepositorio.cs",
+              "RelativeToolTip": "Repositorio\\IFuncionarioRepositorio.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAIBJwAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:05:56.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FuncionarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\ProjetoWebAPI\\Repositorio\\FuncionarioRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorio\\FuncionarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\ProjetoWebAPI\\Repositorio\\FuncionarioRepositorio.cs",
+              "RelativeToolTip": "Repositorio\\FuncionarioRepositorio.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAqwGcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:04:46.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BdEmpresaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\ProjetoWebAPI\\ORM\\BdEmpresaContext.cs",
+              "RelativeDocumentMoniker": "ORM\\BdEmpresaContext.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\ProjetoWebAPI\\ORM\\BdEmpresaContext.cs",
+              "RelativeToolTip": "ORM\\BdEmpresaContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA7wA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:01:42.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjetoWebAPI.http",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\ProjetoWebAPI\\ProjetoWebAPI.http",
+              "RelativeDocumentMoniker": "ProjetoWebAPI.http",
+              "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\ProjetoWebAPI\\ProjetoWebAPI.http",
+              "RelativeToolTip": "ProjetoWebAPI.http",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-01T12:06:51.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\ProjetoWebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\ProjetoWebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T12:04:20.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FuncionarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\ProjetoWebAPI\\Controllers\\FuncionarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FuncionarioController.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\ProjetoWebAPI\\Controllers\\FuncionarioController.cs",
+              "RelativeToolTip": "Controllers\\FuncionarioController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAUwHgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:03:17.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "response_1727784034656.json",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Downloads\\response_1727784034656.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\response_1727784034656.json",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Downloads\\response_1727784034656.json",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\response_1727784034656.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0BAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T12:11:15.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\ProjetoWebAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\ProjetoWebAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:06:57.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\ProjetoWebAPI\\Model\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Model\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\ProjetoWebAPI\\Model\\Funcionario.cs",
+              "RelativeToolTip": "Model\\Funcionario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:03:07.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FuncionarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\ProjetoWebAPI\\Model\\FuncionarioDto.cs",
+              "RelativeDocumentMoniker": "Model\\FuncionarioDto.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\ProjetoWebAPI\\Model\\FuncionarioDto.cs",
+              "RelativeToolTip": "Model\\FuncionarioDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:02:57.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\ProjetoWebAPI\\Model\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Model\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\ProjetoWebAPI\\Model\\LoginDto.cs",
+              "RelativeToolTip": "Model\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:02:52.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\ProjetoWebAPI\\Model\\Usuario.cs",
+              "RelativeDocumentMoniker": "Model\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\ProjetoWebAPI\\Model\\Usuario.cs",
+              "RelativeToolTip": "Model\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:02:42.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\ProjetoWebAPI\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorio\\UsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\ProjetoWebAPI\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "Repositorio\\UsuarioRepositorio.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvw8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:52:16.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TbFuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\ProjetoWebAPI\\ORM\\TbFuncionario.cs",
+              "RelativeDocumentMoniker": "ORM\\TbFuncionario.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\ProjetoWebAPI\\ORM\\TbFuncionario.cs",
+              "RelativeToolTip": "ORM\\TbFuncionario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:01:32.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TbUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\ProjetoWebAPI\\ORM\\TbUsuario.cs",
+              "RelativeDocumentMoniker": "ORM\\TbUsuario.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\ProjetoWebAPI\\ORM\\TbUsuario.cs",
+              "RelativeToolTip": "ORM\\TbUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:01:21.786Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
